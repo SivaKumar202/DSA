@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int BinDec(int num){
+int DecToBin(int num){
     int ans = 0, Pow = 1;
     while(num >0){
         int rem = num%2;
@@ -14,5 +14,5 @@ int BinDec(int num){
 
 int main(){
     int n; cin>> n;
-    cout<<BinDec(n)<<endl;
+    cout<<DecToBin(n)<<endl;
 }
