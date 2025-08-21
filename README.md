@@ -8,3 +8,4 @@
     -> Search an element in an array
     -> find maximum element in an Array
     -> Second Largest Element in an Array
+    -> Third largest element in an array of distinct elements
