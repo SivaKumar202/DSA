@@ -10,3 +10,4 @@
     -> Second Largest Element in an Array
     -> Third largest element in an array of distinct elements
     -> Move all Zeros to End of Array
+    -> Reverse an Array in groups of given size
