@@ -12,3 +12,4 @@
     -> Move all Zeros to End of Array
     -> Reverse an Array in groups of given size
     -> Move all Zeros to End of Array
+    -> Sort an array in wave form
