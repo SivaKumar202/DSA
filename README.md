@@ -13,3 +13,4 @@
     -> Reverse an Array in groups of given size
     -> Move all Zeros to End of Array
     -> Sort an array in wave form
+    ->Adding one to number represented as array of digits
