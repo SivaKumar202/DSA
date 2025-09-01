@@ -14,3 +14,5 @@
     -> Move all Zeros to End of Array
     -> Sort an array in wave form
     ->Adding one to number represented as array of digits
+# Stack Problems
+    -> Valid Parentheses in an Expression

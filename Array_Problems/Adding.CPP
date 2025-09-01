@@ -12,7 +12,7 @@ vector<int> addOne(vector<int> &arr) {
         arr[i] = sum % 10;
         carry = sum / 10;
     }
-
+ 
     if(carry) {
         arr.insert(arr.begin(), carry);
     }
